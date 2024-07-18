@@ -1,4 +1,3 @@
-ola!
-Api desenvolvida em ambiente de estudos.
-projetada para reservas de imoveis.
-sintasse avontade para consumi-lá
+hello! API developed in a study environment.
+Designed for property reservations.
+Felt the urge to consume it.
